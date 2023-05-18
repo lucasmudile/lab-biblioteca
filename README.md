@@ -1,2 +1,0 @@
-# lab-biblioteca
-Trabalho escolar
